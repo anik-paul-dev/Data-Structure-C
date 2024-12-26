@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in C
 
-This repository contains a collection of C programs that demonstrate various data structures and algorithms. The programs cover fundamental concepts and advanced techniques, designed to enhance your understanding of data structures and algorithms in C.
+This repository contains a collection of C programs that I prepared while learning data structures. The programs cover various fundamental and advanced concepts, providing hands-on experience with data structures and algorithms in C.
 
 ---
 
@@ -144,5 +144,4 @@ Contributions are welcome! If you have suggestions for improvements or new progr
 ---
 
 Happy Coding!
-
 
